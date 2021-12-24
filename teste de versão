@@ -1,7 +1,0 @@
-################################# 
-#           JENKINS             #
-################################# 
-
-java -version
-java -jar jenkins.war
-java -jar jenkins.war --httpPort=9090
